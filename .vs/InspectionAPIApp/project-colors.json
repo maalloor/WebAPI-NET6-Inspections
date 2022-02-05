@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a456db04-87f7-4a4f-88ba-2f7238dcdc0a": {
+      "ProjectGuid": "a456db04-87f7-4a4f-88ba-2f7238dcdc0a",
+      "DisplayName": "InspectionAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
